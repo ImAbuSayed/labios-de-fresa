@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-fresa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Labios de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fresa/) |
+| **Get License** | [License this song: Labios de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fresa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `28940e29614a1388c8e0ca247c3cd86af77b499c472179a74b526e0c5d1803fb` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
