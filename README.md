@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-fresa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fresa/) |
+| **Get License** | [Secure Licensing Rights for Labios de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fresa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de fresa me tienen en tensión
+> Bailando en la pista, perdiendo la razón
+> Nena, tú eres mi gran tentación
+> Esta noche loca es nuestra obsesión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
